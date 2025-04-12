@@ -6,26 +6,21 @@ This project performs customer segmentation using RFM (Recency, Frequency, Monet
 
 ## 📌 Project Structure
 
-Customer_Segmentation/
-│
-├── app.py                             # Flask application
-├── cust_segmentation.ipynb            # Notebook for model training & saving
-├── KMeans_model.pkl                   # Pickle file with trained KMeans model + scaler
-├── README.md                          # Project documentation (you can use the one above)
-│
-├── uploads/                           # Uploaded CSV files (auto-created)
-│   └── (your_uploaded_file.csv)
-│
-├── results/                           # Output CSVs with predictions
-│   └── prediction_results_*.csv
-│
-├── static/                            # Auto-generated plots
-│   ├── Frequency.png
-│   ├── Recency.png
-│   └── Monetary.png
-│
-└── templates/                         # HTML templates for Flask
-    └── index.html
+- **Customer_Segmentation/**
+  - `app.py` - Flask application
+  - `cust_segmentation.ipynb` - Notebook for model training & saving
+  - `KMeans_model.pkl` - Pickle file with trained KMeans model + scaler
+  - `README.md` - Project documentation
+  - **uploads/** - Uploaded CSV files (auto-created)
+    - `(your_uploaded_file.csv)`
+  - **results/** - Output CSVs with predictions
+    - `prediction_results_*.csv`
+  - **static/** - Auto-generated plots
+    - `Frequency.png`
+    - `Recency.png`
+    - `Monetary.png`
+  - **templates/** - HTML templates for Flask
+    - `index.html`
 
 
 ---
