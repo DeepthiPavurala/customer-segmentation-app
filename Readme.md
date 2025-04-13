@@ -72,13 +72,13 @@ This project clusters bank customers into meaningful groups using unsupervised l
 --- ## 📸 Screenshots of Flask App
 
 ### 🔹 Homepage (Upload Form)
-![Upload Form]('/Users/deepthipavurala/Desktop/Screenshot 2025-04-12 at 1.22.32 AM.png')
+![Upload Form]('Flask_Screenshots/Home.png')
 
 ### 🔹 File Selected State
-![File Selected]('/Users/deepthipavurala/Desktop/Screenshot 2025-04-12 at 1.22.48 AM.png')
+![File Selected]('Flask_Screenshots/Predict_File_Submission.png')
 
 ### 🔹 Output with Cluster Plots
-![Output Dashboard]('/Users/deepthipavurala/Desktop/Screenshot 2025-04-12 at 2.42.56 AM.png')
+![Output Dashboard]('Flask_Screenshots_Results.png')
 
 ---
 
