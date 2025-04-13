@@ -72,12 +72,13 @@ This project clusters bank customers into meaningful groups using unsupervised l
 --- ## 📸 Screenshots of Flask App
 
 ### 🔹 Homepage (Upload Form)
-<img src="Flask_Screenshots/Home.png" width="300">
+![Upload Form]('/Users/deepthipavurala/Documents/Big Data/Projects/Customer_Segmentation/Flask_Screenshots/Home.png')
 
 ### 🔹 File Selected State
-<img src="Flask_Screenshots/Predict_File_Submission.png" width="300">
+![File Selected]('/Users/deepthipavurala/Documents/Big Data/Projects/Customer_Segmentation/Flask_Screenshots/Predict_File_Submission.png')
+
 ### 🔹 Output with Cluster Plots
-<img src="Flask_Screenshots/Results.png" width="300">
+![Output Dashboard]('/Users/deepthipavurala/Documents/Big Data/Projects/Customer_Segmentation/Flask_Screenshots/Results.png')
 
 ---
 
