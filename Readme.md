@@ -21,6 +21,9 @@ This project performs customer segmentation using RFM (Recency, Frequency, Monet
     - `Monetary.png`
   - **templates/** - HTML templates for Flask
     - `index.html`
+  - **Dashboard/** - PowerBI dashboard for RFM
+    - `Customer_Segmentation.pbix`
+    - `Dashboard.png`
 
 
 ---
@@ -42,6 +45,7 @@ This project clusters bank customers into meaningful groups using unsupervised l
 - Scikit-learn
 - Seaborn & Matplotlib
 - Flask
+- PowerBI
 
 ---
 
@@ -79,6 +83,9 @@ This project clusters bank customers into meaningful groups using unsupervised l
 
 ### 🔹 Output with Cluster Plots
 <img src="Flask_Screenshots/Results.png" width="400">
+
+### 🔹 Dashboard
+<img src="Dashboard/Dashboard.png" width="600"> 
 
 ---
 
